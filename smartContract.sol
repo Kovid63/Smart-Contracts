@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 
-// Simple contract for a single item being traded in the marketplace.(without counters and tokenURI/Metadata)
+// Simple contract for a single item being traded in the marketplace(without counters and tokenURI/Metadata)
 
 pragma solidity ^0.8.4;
 
